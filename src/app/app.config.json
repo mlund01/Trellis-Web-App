@@ -1,0 +1,14 @@
+{
+  "appname": "Trellis-Web-App",
+  "scope": "FullAccess",
+  "clientid": "7638EFA1-F9C0-4FD7-9EE2-666CFBC052B9",
+  "buyerid": "trellis-buyer",
+  "environment": "prod",
+  "anonymous": false,
+  "base": {
+    "left":true,
+    "right":false,
+    "top":true,
+    "bottom":false
+  }
+}
